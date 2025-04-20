@@ -1,0 +1,1 @@
+This is an addon for the Lands plugin which creates a new kind of warring system, instead of killing people toget points you can conquer and also kill. This plugin was ORIGINALY made by ElonChunk for the earth server CivMC.
